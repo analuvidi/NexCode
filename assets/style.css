@@ -1,0 +1,104 @@
+body {
+  background-color: #001d37;
+  color: #e6f3ff;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1.1rem;
+  line-height: 1.8;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+a {
+  color: #0086fe;
+  text-decoration: underline;
+}
+
+a:hover,
+a:focus {
+  color: #66bfff;
+  outline: 2px dashed #0086fe;
+}
+
+header,
+footer {
+  text-align: center;
+  border-bottom: 1px solid #004c94;
+  margin-bottom: 20px;
+  padding: 10px 0;
+  color: #0086fe;
+  background-color: #00213f;
+}
+
+footer {
+  border-top: 1px solid #004c94;
+  margin-top: 40px;
+}
+
+h1,
+h2,
+h3 {
+  color: #0086fe;
+  text-shadow: 0 0 4px #004c94;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+ul,
+li,
+p {
+  margin-bottom: 1em;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  color: #e6f3ff;
+  font-size: 1rem;
+}
+
+table,
+th,
+td {
+  border: 1px solid #004c94;
+  padding: 10px;
+  background-color: #002d55;
+}
+
+th {
+  background-color: #004c94;
+  color: #e6f3ff;
+}
+
+header {
+  text-align: center;
+  border-bottom: 1px solid #004c94;
+  margin-bottom: 20px;
+  padding: 20px 0 10px 0; /* padding superior um pouco maior */
+  background-color: #00213f;
+}
+
+header .logo {
+  max-width: 250px;
+  display: block;
+  margin: 0 auto 10px auto;
+  filter: drop-shadow(0 0 4px #004c94);
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2rem;
+  color: #0086fe;
+}
+
+header p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #66bfff;
+  font-size: 1.2rem;
+}
