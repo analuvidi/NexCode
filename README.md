@@ -1,7 +1,6 @@
 Trabalho apresentado ao curso de Análise e Desenvolvimento de Sistemas do Centro Universitário de Viçosa como parte da avaliação da disciplina de Design de Interação e Projeto Integrador.
 <br></br>
 Orientadora: Profª Cristiane Aparecida Lana
-<br></br>
 Coorientador: Prof. Carlos Henrique
 <br></br>
 Aluna(o)s
