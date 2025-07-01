@@ -3,7 +3,7 @@ Trabalho apresentado ao curso de Análise e Desenvolvimento de Sistemas do Centr
 Orientadora: Profª Cristiane Aparecida Lana
 <br></br>
 Coorientador: Prof. Carlos Henrique
-<br></br
+<br></br>
 Aluna(o)s
 <br></br>
 Ana Luiza Ferreira Vidigal - 27121
