@@ -7,7 +7,7 @@ Pedro Henrique Queiroz - 27501
 Erick Peixoto de Souza Xavier - 27961
 Raienny Firmino Lopes - 27322
 Luiz Eduardo Lana - 26721
-<body>
+
     <div class="container">
         <header>
 
@@ -196,4 +196,3 @@ Luiz Eduardo Lana - 26721
             <p>Desenvolvido por NexCode – 2025</p>
         </footer>
     </div>
-</body>
