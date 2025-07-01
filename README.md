@@ -12,4 +12,4 @@ Luiz Eduardo Lana - 26721
 
 Link para visualização da página
 
-<link>nex-code-rose.vercel.app</link>
+[Página](https://nex-code-rose.vercel.app)
