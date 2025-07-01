@@ -9,7 +9,7 @@ Ana Luiza Ferreira Vidigal - 27121
 <br></br>
 Pedro Henrique Queiroz - 27501
 <br></br>
-Erick Peixoto de Souza Xavier - 27961
+Erick Peixoto de Souza Xavier - 27964
 <br></br>
 Raienny Firmino Lopes - 27322
 <br></br>
