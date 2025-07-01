@@ -1,6 +1,6 @@
 Trabalho apresentado ao curso de Análise e Desenvolvimento de Sistemas do Centro Universitário de Viçosa como parte da avaliação da disciplina de Design de Interação e Projeto Integrador.
 <br></br>
-Orientadora: Profª Cristiane Aparecida Lana
+Orientadora: Profª Cristiane Aparecida Lana e
 Coorientador: Prof. Carlos Henrique
 <br></br>
 Aluna(o)s
@@ -15,8 +15,7 @@ Raienny Firmino Lopes - 27322
 <br></br>
 Luiz Eduardo Lana - 26721
 
-
+<br></br>
 
 Link para visualização da página
-
 [Página](https://nex-code-rose.vercel.app)
